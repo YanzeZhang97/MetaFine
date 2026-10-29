@@ -1,0 +1,10 @@
+# Install the official MetaFine repository first (it pins the simulator stack: torch 2.6, sapien 3.0.3,
+# mani_skill 3.0.1, numpy 1.26). These are the extra packages this code needs; versions are the ones we used.
+torch==2.6.0
+torchvision==0.21.0
+transformers==4.57.0
+tokenizers==0.22.2
+safetensors
+numpy==1.26.4
+pyyaml
+pillow

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+# official competition repository (clone it here or set METAFINE_REPO)
+MetaFine-Challenge_CoRL/
+# generated data, training runs, weights and built submissions
+data/
+runs/
+lpolicy/weights/
+hf_submission*/
